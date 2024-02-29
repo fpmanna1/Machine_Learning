@@ -4,4 +4,4 @@ Railways play a pivotal role in green transportation due to their energy efficie
 
 Goal: The aim of this contest is to support the detection of different weather events that could lead to an inaccurate object detection in autonomous railway.
 
-The dataset can be download from this link: https://www.kaggle.com/datasets/ifruit94/weatherdataset
+The dataset can be downloaded from this link: https://www.kaggle.com/datasets/ifruit94/weatherdataset
