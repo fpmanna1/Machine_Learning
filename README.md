@@ -15,4 +15,12 @@ RA - Stands for Rainy and is associated with label 3
 SF - Stands for Sun Flare (Direct Sunlight Interference) and is associated with label 4
 SH - Stands for Shadows and is associated with label 5
 
+CL - Stands for Clean and is associated with label 0  
+BR - Stands for Bright Right and is associated with label 1  
+DA - Stands for Darkness and is associated with label 2  
+RA - Stands for Rainy and is associated with label 3  
+SF - Stands for Sun Flare (Direct Sunlight Interference) and is associated with label 4  
+SH - Stands for Shadows and is associated with label 5
+
+
 The dataset can be downloaded from this link: https://www.kaggle.com/datasets/ifruit94/weatherdataset
