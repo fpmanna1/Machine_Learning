@@ -9,7 +9,9 @@ The dataset consists of .PNG samples representing six different weather and scen
 The class labels are as follows:
 
 CL - Stands for Clean and is associated with label 0
+
 BR - Stands for Bright Right and is associated with label 1
+
 DA - Stands for Darkness and is associated with label 2
 RA - Stands for Rainy and is associated with label 3
 SF - Stands for Sun Flare (Direct Sunlight Interference) and is associated with label 4
